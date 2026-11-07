@@ -1,3 +1,5 @@
+> **Merged into [charity-compliance](https://github.com/jasveerai88/charity-compliance)** — this tool now ships as the `t3010-check` module of the charity-compliance suite (v1.0.0, also on PyPI). New work happens there; this repo stays as the original standalone release.
+
 # t3010-check — T3010 Pre-Flight Checker
 
 Canada's ~86,000 registered charities file a **T3010 Registered Charity
