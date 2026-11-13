@@ -315,8 +315,9 @@ machine it runs on.
 ## Support
 
 If t3010-check saves your charity or your practice time, you can
-sponsor its development on GitHub Sponsors — see
-`.github/FUNDING.yml`. Issues and pull requests are welcome; see
+sponsor its development on GitHub Sponsors:
+[github.com/sponsors/jasveerai88](https://github.com/sponsors/jasveerai88)
+— see also `.github/FUNDING.yml`. Issues and pull requests are welcome; see
 `CONTRIBUTING.md`.
 
 ## Licence
